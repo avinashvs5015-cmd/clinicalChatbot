@@ -3,6 +3,14 @@ Persistent Embedding Cache System
 Stores embeddings with file metadata to avoid re-processing unchanged files
 """
 
+# Fix SQLite version issue for cloud deployment
+import sys
+try:
+    __import__('pysqlite3')
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+except ImportError:
+    pass
+
 import os
 import hashlib
 import json
