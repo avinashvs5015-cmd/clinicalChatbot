@@ -9,6 +9,7 @@ langchain-text-splitters>=0.0.1
 # Vector embeddings and database
 sentence-transformers
 chromadb
+pysqlite3-binary
 numpy>=1.24.0
 
 # OCR and advanced document processing - Removed vllm (too heavy for Streamlit Cloud)
