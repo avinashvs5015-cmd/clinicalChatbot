@@ -1,0 +1,32 @@
+{
+  "./documents/machine_learning_intro.txt": {
+    "size": 2542,
+    "mtime": 1758376429.4201877,
+    "hash": "8e7894fb19e5b1a28f7e6c9346a50d1f"
+  },
+  "./documents/IPCC_AR6_SYR_SPM.pdf": {
+    "size": 5552060,
+    "mtime": 1758451423.152414,
+    "hash": "283ac1761da50af81c65ef9dada61552"
+  },
+  "./documents/9781474402095_Three_Short_Novels_Introduction.pdf": {
+    "size": 1606655,
+    "mtime": 1758453655.570734,
+    "hash": "0f823368ffc8fdfb3c87ab75f46dc80c"
+  },
+  "./documents/ICICI_Statement copy.pdf": {
+    "size": 55847,
+    "mtime": 1754567868.1573606,
+    "hash": "e4c96a4c11c1abd82990ec5ace0a3a06"
+  },
+  "./documents/nlp_guide.txt": {
+    "size": 3650,
+    "mtime": 1758376429.4200745,
+    "hash": "38aa0ef76512e8ac1272c074863ff590"
+  },
+  "./documents/alloroots.txt": {
+    "size": 11093,
+    "mtime": 1758555059.6776493,
+    "hash": "16805d22ae64091d35c8d7b6f875024f"
+  }
+}
